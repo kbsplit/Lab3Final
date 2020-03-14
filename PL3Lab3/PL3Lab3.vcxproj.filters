@@ -24,21 +24,12 @@
     <ClCompile Include="opVetoresFloat.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="opVetoresChar.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="opVetoresInt.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="constantes.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="opVetoresFloat.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="opVetoresChar.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

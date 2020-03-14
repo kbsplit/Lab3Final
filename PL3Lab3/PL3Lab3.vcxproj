@@ -138,14 +138,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="constantes.h" />
-    <ClInclude Include="opVetoresChar.h" />
     <ClInclude Include="opVetoresFloat.h" />
     <ClInclude Include="opVetoresInt.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="opVetoresChar.cpp" />
     <ClCompile Include="opVetoresInt.cpp" />
     <ClCompile Include="opVetoresFloat.cpp" />
   </ItemGroup>
