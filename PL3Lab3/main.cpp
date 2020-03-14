@@ -1,7 +1,6 @@
 #include <iostream>
 #include "opVetoresInt.h"
 #include "opVetoresFloat.h"
-#include "opVetoresChar.h"
 
 using namespace std;
 
