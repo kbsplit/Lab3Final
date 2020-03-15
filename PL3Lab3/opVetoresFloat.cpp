@@ -5,7 +5,7 @@ using namespace std;
 
 void inserirDados(float v[], int tamanho) {
 	for (int i = 0; i < tamanho; i++) {
-		cout << "Insira um numero inteiro:";
+		cout << "Insira um numero real:";
 		cin >> v[i];
 	}
 
